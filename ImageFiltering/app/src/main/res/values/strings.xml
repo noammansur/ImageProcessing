@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">spatialFiltering</string>
+    <string name="activity_name">spatialFilteringActivity</string>
+    <string name="title_activity_stills">StillsActivity</string>
+    <string name="save_button">Save</string>
+
+    <string name="load_button">Load</string>
+    <string name="desc">Image</string>
+
+    <string name="notAvailable">This feature is not available in still mode</string>
+
+    <string name="stringSpatial">Sigma spatial = </string>
+    <string name="stringIntensity">Sigma intensity = </string>
+    <string name="stringAlpha">Alpha = </string>
+    <string name="stringBeta">Beta = </string>
+
+
+</resources>
