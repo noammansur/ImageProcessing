@@ -1,0 +1,12 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="NoActionBar" parent="@android:style/Theme.Holo.NoActionBar">
+        <!-- Inherits the Holo theme with no action bar; no other styles needed. -->
+    </style>
+
+</resources>

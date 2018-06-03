@@ -1,0 +1,2 @@
+include ':app', ':myimageproc'
+include ':openCVLibrary340'
